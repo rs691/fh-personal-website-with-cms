@@ -3,5 +3,5 @@ media:
   output: assets
 content:
   - name: posts
-    type: collections
+    type: collection
     path: blog
